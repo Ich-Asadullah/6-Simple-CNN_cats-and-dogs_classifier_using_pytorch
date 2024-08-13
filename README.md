@@ -1,5 +1,5 @@
 # Cat-Dog-Classifier
-
+![Cat and Dog Classifier](img/thumbnail.jpg)
 ## Overview
 
 This repository contains a deep learning project aimed at classifying images of cats and dogs. The project includes:
